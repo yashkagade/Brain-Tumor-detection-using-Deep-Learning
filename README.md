@@ -23,6 +23,16 @@ This is a Deep Learning-based web application that detects the presence of brain
 
 ---
 
+## 📥 Resources
+
+- 🔗 **Pre-trained Model (mri_model.h5)** – Hosted on Google Drive  
+  [Download from Drive](https://drive.google.com/file/d/1faaXCjfL_Cnx-gXCSQZgUmCMZUjubURW/view?usp=sharing)
+
+- 📊 **Dataset used (Brain MRI Images for Brain Tumor Detection)** – From Kaggle  
+  [View on Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?select=no)
+
+---
+
 ## 🧠 Tech Stack
 
 - **Python**
@@ -53,13 +63,3 @@ The CNN model consists of:
 4. **Interface** – Streamlit is used to provide a simple UI for training the model and uploading images for classification.
 
 ---
-
-## Directory Structure
-
-Brain-Tumor-Detection/
-├── dataset/             # Folder containing MRI image dataset
-├── mri_model.h5         # Trained model (auto-generated)
-├── app.py               # Main Streamlit application
-└── README.md            # Project documentation
-
-
